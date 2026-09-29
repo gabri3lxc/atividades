@@ -1,0 +1,88 @@
+html {
+    font-family:sans-serif ;
+    color: red;
+   
+}
+
+.cherish-regular {
+  font-family: "Cherish", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.header {
+    text-align: center;
+}
+.nav {
+    text-align: center;
+
+}
+.a {
+    text-decoration: none;
+    color: red;
+    font-size: 15px;
+    margin: 0 10px;
+}
+#sinopse {
+  
+    font-size: 23px;
+    margin: 40px 30px;
+    margin-right: 30px;
+    text-align: center;
+    line-height: 25px;
+}
+.trailer {
+
+  
+    text-align: center;
+    margin-left: 7rem;
+    float: left;
+    line-height: 1px;
+    font-size: 16px;
+}
+.elenco {
+
+    width: 430px;
+    height: 400px;
+    display: flex;
+    flex-direction:  column;
+    justify-content: center;
+    padding-left: 7rem;
+
+}
+
+
+
+.size {
+    font-size: 30px;
+    text-align: center;
+}
+
+.sz {
+
+  width: 70%;
+  height: 5px;
+  background-color: red;
+  border-radius: 10px;
+}
+
+.szz{
+  height: 5px;
+  background-color: red;
+
+
+}
+
+.fot { 
+    
+    clear: both;
+    text-align: center;
+    line-height: 1rem;
+   margin-top: 100px;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
