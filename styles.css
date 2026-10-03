@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+* {
+    font-family: "Original Surfer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+.head {
+    background-color: rgb(58, 58, 58);
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+/* Main */
+.main {
+    display: flex;
+    flex-direction: column;
+}
+.ss1 {
+    display: flex;
+    background-color: rgb(133, 0, 0);
+    width: 100%;
+    height: 25rem;
+}
+.ss2 {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 25rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.text-ss2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 20rem;
+}
+
+.ss3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 253);
+    width: 100%;
+    height: 27rem;
+}
+
+.sc3 {
+   
+    display: flex;
+    flex-direction: row;
+    height: 10rem;
+    width: 50rem;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.circle {
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    background-color: rgb(113, 0, 0);
+}
+.info {
+    
+    display: flex;
+    flex-direction: row;
+    height: 6rem;
+    width: 50rem;
+    justify-content: space-around;
+    align-items: center;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Footer */
+.fot {
+    background-color: rgb(58, 58, 58);
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
